@@ -1,0 +1,33 @@
+.navbar{
+    display:flex;
+    justify-content: space-around;
+    background-color: rgb(255,255,255);
+    padding:1rem 0rem;
+    font-size: 17px;
+    overflow: hidden;
+     width: 100%;
+     z-index: 10;
+ 
+ }
+ .nav-links{
+    width:70%;
+    margin:auto;
+     display: flex;
+     padding:0.2rem 0px;
+     text-align: center;
+     justify-content: center;
+     color:white;
+ }
+
+ .nav-links>div>span{
+    padding:0.2rem 4rem;
+    background-color: #6a6869;
+     text-align: center;
+     justify-content: center;
+ }
+ .nav-links_active{
+    background-color: #991F48;
+     padding:0.3rem 1rem;
+     text-align: center;
+     justify-content: center;
+ }

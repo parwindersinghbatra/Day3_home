@@ -1,0 +1,19 @@
+img{
+    margin-top:-10px;
+    width:100%;
+    margin-bottom:0px;
+    border:1px solid black;
+    
+}
+.screen{
+    width:100%;
+    text-align:center;
+    background-color:rgb(153,31,72);
+    color:white;
+    padding:20px 1px;
+}
+.footer_main{
+    width:100%;
+    margin:auto;
+    text-align: center;
+}
